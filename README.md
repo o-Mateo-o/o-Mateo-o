@@ -2,6 +2,8 @@
 
 Peace with you! I am a **Software Engineer** who is particularly interested in **data-related** projects. Currently, I am studying **Applied Mathematics** at Wrocław University of Science and Technology (where my area of focus is agent-based modeling), while also working a job.  :computer: :bar_chart: :books: 
 
+During my free time, I enjoy playing music and making meaningful contributions to the communities I belong to. :musical_keyboard: :raised_hands:
+
 ---
 
 My objective as a coder is to create projects that are not only functional but also aesthetically pleasing, like a beautiful piece of literature. 
@@ -9,11 +11,7 @@ My objective as a coder is to create projects that are not only functional but a
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 > ~ Martin Fowler
 
----
-
-During my free time, I enjoy playing music and making meaningful contributions to the communities I belong to. :musical_keyboard: :raised_hands:
-
-## My main technologies
+## My tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -31,7 +29,7 @@ During my free time, I enjoy playing music and making meaningful contributions t
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-3670A0?style=for-the-badge)
 
-## GitHub stats
+## Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=o-mateo-o&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
