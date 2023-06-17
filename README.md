@@ -38,3 +38,6 @@ My objective as a coder is to create projects that are not only functional but a
 Please feel free to explore both my current and past projects. I have shared my infatuations and learning progress mainly in the pinned repositories.
 
 To stay updated on my professional contributions, be sure to check out my [secondary profile](https://github.com/mateusz-machaj). Keep in mind that most of its content stays hidden. :wink:
+
+## Contact
+:envelope_with_arrow: mateusz.j.machaj@gmail.com
