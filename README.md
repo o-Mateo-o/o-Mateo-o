@@ -25,9 +25,6 @@ My objective as a coder is to create projects that are not only functional but a
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-3670A0?style=for-the-badge)
 
-## Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=o-mateo-o&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ## Profile contents
 
