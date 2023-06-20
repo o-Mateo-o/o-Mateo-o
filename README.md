@@ -4,8 +4,6 @@ Peace with you! I am a **Software Engineer** who is particularly interested in *
 
 During my free time, I enjoy playing music and making meaningful contributions to the communities I belong to. :musical_keyboard: :raised_hands:
 
-My objective as a coder is to create projects that are not only functional but also aesthetically pleasing, like a beautiful piece of literature. 
-
 
 ## My tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
